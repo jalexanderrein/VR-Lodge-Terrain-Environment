@@ -3,7 +3,7 @@ Project created on Spoke by Mozilla
 
 **VR Lodge Terrain Environment** demonstrates a 3D scene with a colorful grand hall which built by various components. Avator is created for providing WebVR experience. 
 <picture>
-  <img src="https://github.com/phoenixindev/FlatEarthSwampValley/blob/main/vr-lodge-terrain-environment.PNG" alt="screenshot-main" style="width:auto;">
+  <img src="https://github.com/jalexanderrein/FlatEarthSwampValley/blob/main/vr-lodge-terrain-environment.PNG" alt="screenshot-main" style="width:auto;">
 </picture>
 
 
